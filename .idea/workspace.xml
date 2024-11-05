@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b56ff22c-0699-43e2-87de-0dc07b5f89cb" name="Changes" comment="created new project">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="b56ff22c-0699-43e2-87de-0dc07b5f89cb" name="Changes" comment="created feature 1">
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/teststudy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/teststudy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AaronPowderly"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AaronPowderly/testStudy.git",
+    "accountId": "d3dc76f1-7bc6-4b18-8361-8b2974b21795"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -36,6 +47,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature1",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -56,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730819469192</updated>
-      <workItem from="1730819470240" duration="170000" />
+      <workItem from="1730819470240" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <option name="closed" value="true" />
@@ -66,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730819586374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created feature 1">
+      <option name="closed" value="true" />
+      <created>1730819654825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730819654825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="created new project" />
+    <MESSAGE value="created feature 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="created feature 1" />
   </component>
 </project>
